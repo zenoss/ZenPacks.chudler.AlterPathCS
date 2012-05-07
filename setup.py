@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.chudler.AlterPathCS'
 VERSION = '1.0'
 AUTHOR = 'Colin Hudler'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.chudler']
 PACKAGES = ['ZenPacks', 'ZenPacks.chudler', 'ZenPacks.chudler.AlterPathCS']
 INSTALL_REQUIRES = []
